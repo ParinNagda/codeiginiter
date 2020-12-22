@@ -1,3 +1,7 @@
+http://localhost/rest_test/welcome - link on localhost
+
+
+
 ###################
 What is CodeIgniter
 ###################
